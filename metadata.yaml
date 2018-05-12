@@ -1,0 +1,30 @@
+_repo: The-Amazing-Inheritance_39933
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sterrett, Frances R. (Frances Roberta)
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '25055'
+    url: http://www.gutenberg.org/2009/agents/25055
+description: ''
+gutenberg_issued: '2012-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39933'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'United States -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: The Amazing Inheritance
+url: http://www.gutenberg.org/ebooks/39933
